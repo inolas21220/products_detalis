@@ -1,0 +1,53 @@
+img {
+    width: 62%;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h5 {
+    margin-left: 10%;
+    margin-top: 3px;
+}
+
+a {
+    color: rgb(0, 1, 2);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(1, 10, 1);
+}
+
+.maindiv {
+    margin-left: 12%;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 40px;
+    color: rgb(1, 12, 5);
+    margin-bottom: 5%;
+    background-color: rgba(10, 9, 0, 0.2);
+}
+
+.rowdiv {
+    margin-bottom: 10%;
+}
+
+.buttonstyle {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 38%;
+}
+
+.buttonstyle:hover {
+    background-color: rgb(1, 9, 17);
+}

@@ -1,0 +1,26 @@
+.alignment {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 3%;
+    color: rgb(41, 135, 212);
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 2px solid rgba(7, 2, 0, 0.3);
+    color: rgb(44, 43, 119);
+    font-size: 26px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(43, 119, 76);
+    font-weight: normal;
+    margin-top: 5%;
+}
+
+body {
+    font-family: sans-serif;
+}
